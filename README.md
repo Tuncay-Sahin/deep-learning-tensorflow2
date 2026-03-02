@@ -9,6 +9,23 @@ The goal is to transform raw customer interaction data into a decision-support s
 Unlike tutorial-style notebooks, this repository includes a structured machine learning workflow and a production-ready prediction pipeline.
 
 ---
+## Problem Context
+
+Subscription-based digital platforms face a common challenge:
+
+Not every customer who purchases once continues engaging with the product.
+
+Understanding which customers are likely to return enables companies to:
+
+- Improve marketing efficiency
+- Reduce acquisition costs
+- Personalize engagement strategies
+
+In this project, a deep learning model is developed to predict whether a customer will purchase audiobooks again based on historical behavioral features.
+
+The objective is not only model accuracy but also improving recall for repeat customers through decision threshold optimization aligned with business objectives.
+
+---
 
 ## Business Problem
 
