@@ -1,5 +1,11 @@
 # Deep Learning Customer Behavior Prediction (Audiobooks Case Study)
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Status](https://img.shields.io/badge/Status-Production%20Style-success)
+![ML Pipeline](https://img.shields.io/badge/ML-Pipeline-green)
+
+
 ## Overview
 
 This project builds a deep learning model to predict whether a customer is likely to purchase audiobooks again based on behavioral features.
