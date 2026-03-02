@@ -30,7 +30,7 @@ model = tf.keras.models.load_model(
 
 threshold = joblib.load(THRESHOLD_PATH)
 
-print("Components loaded successfully ✅")
+print("Components loaded successfully")
 
 
 # =====================================================
@@ -71,6 +71,6 @@ print(f"Threshold   : {threshold}")
 print(f"Prediction  : {prediction}")
 
 if prediction == 1:
-    print("Customer likely to repeat ✅")
+    print("Customer likely to repeat")
 else:
-    print("Customer unlikely to repeat ❌")
+    print("Customer unlikely to repeat")
